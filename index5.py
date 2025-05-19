@@ -1,3 +1,1 @@
-def kaktus():
-    print('gostrii!!')
-kaktus()
+print('kaktus!!')
